@@ -1,4 +1,3 @@
-<script>
         const modeToggle = document.getElementById('mode-toggle');
         const body = document.body;
         const zoomModal = document.getElementById('zoomModal');
@@ -104,4 +103,3 @@
                 cursor.style.transform = 'scale(1)';
             });
         });
-    </script>
